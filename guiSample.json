@@ -147,8 +147,8 @@
           "color": "yellow"
         },
         {
-          "button1": "on 💡",
-          "button2": "off ️🌙",
+          "button1": "on",
+          "button2": "off",
           "cmd1": "http://cmd1Mon",
           "cmd2": "http://cmd2Moff",
           "sizeType": "medium"
