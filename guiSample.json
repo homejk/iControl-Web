@@ -37,8 +37,8 @@
           "sizeType": "large"
         },
         {
-          "button1": "on 💡",
-          "button2": "off 🌙",
+          "button1": "on",
+          "button2": "off",
           "cmd1": "http://cmd1M",
           "cmd1Id": "uniqueCmdId1M",
           "cmd2": "http://cmd2M",
